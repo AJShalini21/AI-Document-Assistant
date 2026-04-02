@@ -15,4 +15,4 @@ This project is an AI-powered document assistant that uses Retrieval-Augmented G
 - Context-aware answers using LLM
 
 ## Status
-🚧 In Progress (Day 1 Setup Complete)
+🚧 In Progress (Setup Complete)
